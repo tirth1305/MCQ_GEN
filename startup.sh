@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod +x startup.s
+chmod +x startup.sh
 echo "Installing dependencies..."
 pip install --no-cache-dir -r requirements.txt
 
